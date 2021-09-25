@@ -1,8 +1,8 @@
-#BÀI TẬP TIN
+# BÀI TẬP TIN
 
 Tổng hợp đáp án tham khảo của bài tập tin
 
-##Installation
+## Installation
 
 Mở CMD/Terminal
 
