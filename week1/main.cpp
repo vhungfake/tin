@@ -6,9 +6,9 @@ int main() {
     int m,n,a,b;
     
     //INPUT
-    cout << "Nhập n: ";
+    cout << "Nhap n: ";
     cin >> n;
-    cout << "Nhập m: "; 
+    cout << "Nhap m: "; 
     cin >> m;
   
     //CALCULATE
