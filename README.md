@@ -12,7 +12,6 @@ Mở CMD/Terminal
 git clone https://github.com/vhungfake/tin.git
 ```
 
-<img src="https://thumbs.gfycat.com/JubilantDiligentAmmonite-max-1mb.gif" width="648" height="365" />
 
 ## License
 
@@ -37,3 +36,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+<img src="https://thumbs.gfycat.com/JubilantDiligentAmmonite-max-1mb.gif" width="648" height="365" />
