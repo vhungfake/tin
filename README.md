@@ -10,3 +10,5 @@ Mở CMD/Terminal
 git clone https://github.com/vhungfake/tin.git
 ```
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
