@@ -1,6 +1,9 @@
 # BÀI TẬP TIN
 
 Tổng hợp đáp án tham khảo của bài tập tin
+*Lưu ý: Sửa tên file và nội dung để có sự khác nhau
+
+![HAPPY CODING!!!](https://thumbs.gfycat.com/JubilantDiligentAmmonite-size_restricted.gif)
 
 ## Installation
 
