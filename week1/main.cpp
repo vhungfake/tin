@@ -19,7 +19,7 @@ int main() {
     //OUTPUT
     cout << n << " + " << m << " = " << n+m << endl;
     cout << n << " - " << m << " = " << n-m << endl;
-    cout << n << " * " << m << " = " << n*m << endl;
+    cout << n << " x " << m << " = " << n*m << endl;
     cout << n << " / " << m << " = " << a << " du " << b << endl;
     cout << n << " / " << m << " = " << c << endl;
     return 0;
