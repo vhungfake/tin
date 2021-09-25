@@ -2,7 +2,7 @@
 
 Tổng hợp đáp án tham khảo của bài tập tin
 
-*Lưu ý: Sửa tên file và nội dung để có sự khác nhau*
+*Lưu ý: Sửa tên file và :))*
 
 ## Installation
 
